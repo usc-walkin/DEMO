@@ -1,5 +1,7 @@
 # WALKIN BLOCKATHON PROJECT DEMO
 
-CREDIT TO https://github.com/putraxor/flutter-login-ui AND https://github.com/flutter/flutter
+REFERERENCED SOURCE CODE:
+https://github.com/putraxor/flutter-login-ui
+https://github.com/flutter/flutter
 
 
